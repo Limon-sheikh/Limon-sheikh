@@ -29,28 +29,32 @@
 <table style="border-collapse: collapse;">
 <tr>
 <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>  
-<br/><b>JavaScript</b>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="JavaScript"/><br/>
+    <b>HTML5</b>
 </td>
 <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br/>
+    <b>JavaScript</b>
+</td>
+<td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>  
 <br/><b>React</b>
 </td>
 <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>  
-<br/><b>Node.js</b>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/><br/>
+    <b>Node.js</b>
 </td>
 <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind CSS"/>  
-<br/><b>Tailwind CSS</b>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind CSS"/><br/>
+    <b>Tailwind CSS</b>
 </td>
 <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>  
-<br/><b>Git</b>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br/>
+    <b>Git</b>
 </td>
 <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>  
-<br/><b>MySQL</b>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/><br/>
+    <b>MySQL</b>
 </td>
 </tr>
 </table>  
