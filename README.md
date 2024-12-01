@@ -37,8 +37,8 @@
     <b>JavaScript</b>
 </td>
 <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>  
-<br/><b>React</b>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br/>
+    <b>React</b>
 </td>
 <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/><br/>
