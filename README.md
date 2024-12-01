@@ -1,61 +1,122 @@
+<div align="center" style="background: linear-gradient(135deg, #ff6f61, #6b5b95); padding: 30px; border-radius: 15px; color: #fff;">
 
+<img src="https://i.imgur.com/8eYnOOS.png" alt="Profile Logo" width="150" style="border-radius:50%; border: 3px solid #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"/>  
 
-<h1 align="center">Hi 👋, I'm Limon sheikh</h1>
-<h3 align="center">Front-end Web Developer</h3>
+# 🌟 **Welcome to My GitHub Profile!**  
+### 👋 Hi, I'm **Limon Ahmed**  
+**🚀 Full-Stack Developer | 🎨 UI/UX Designer | 🌐 Open Source Enthusiast**  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=limon-sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="limon-sheikh" /> </p>
+</div>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=limon-sheikh" alt="limon-sheikh" /></a> </p>-->
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="center" style="background-color:#162447; padding:20px; border-radius:15px; color:white;">
 
-- 🌱 I’m currently learning **react js**
+## 🚀 **About Me**  
 
-- 📫 How to reach me **cmtlover111@gmail.com**
+🌟 I love crafting visually stunning, user-friendly websites and applications.  
+🎨 Passionate about **web design**, **frontend development**, and **performance optimization**.  
+🔥 Constantly learning and growing with new technologies like **TypeScript**, **Next.js**, and **GraphQL**.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/limonsheikh.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/limonsheikh.s" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
- 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a>
-   
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a> 
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  
-</p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limon-sheikh&show_icons=true&locale=en&layout=compact" alt="limon-sheikh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=limon-sheikh&show_icons=true&locale=en" alt="limon-sheikh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=limon-sheikh&" alt="limon-sheikh" /></p>
+<div align="center" style="background: linear-gradient(135deg, #6a11cb, #2575fc); padding:20px; border-radius:15px; color:white;">
+
+## 💻 **Tech Stack**  
+
+<table style="border-collapse: collapse;">
+<tr>
+<td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>  
+<br/><b>JavaScript</b>
+</td>
+<td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>  
+<br/><b>React</b>
+</td>
+<td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/>  
+<br/><b>Node.js</b>
+</td>
+<td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind CSS"/>  
+<br/><b>Tailwind CSS</b>
+</td>
+<td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>  
+<br/><b>Git</b>
+</td>
+<td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>  
+<br/><b>MySQL</b>
+</td>
+</tr>
+</table>  
+
+</div>
+
+---
+
+<div align="center" style="background: linear-gradient(135deg, #ff512f, #f09819); padding:20px; border-radius:15px; color:white;">
+
+## 🌟 **Featured Projects**  
+
+| Project Name  | Description  | Tech Stack  | Demo  |
+|---|---|---|---|
+| [**Student Management System**](https://github.com/username/student-management) | A web app for managing students, attendance, and grades. | React.js, Node.js, MongoDB | [View Demo](https://github.com/username/student-management) |
+| [**E-commerce Platform**](https://github.com/username/ecommerce-platform) | A scalable platform with a payment gateway. | React.js, Express.js, MySQL | [View Demo](https://github.com/username/ecommerce-platform) |
+| [**Portfolio Website**](https://github.com/username/portfolio-website) | A personal portfolio showcasing my skills. | HTML, CSS, JavaScript | [View Demo](https://github.com/username/portfolio-website) |
+
+</div>
+
+---
+
+<div align="center" style="background: linear-gradient(135deg, #56ab2f, #a8e063); padding:20px; border-radius:15px; color:white;">
+
+## 📈 **GitHub Stats**  
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap:20px;">
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" width="48%"/>
+</div>
+
+</div>
+
+---
+
+<div align="center" style="background: linear-gradient(135deg, #d4fc79, #96e6a1); padding:20px; border-radius:15px;">
+
+## 🎉 **Let's Connect!**  
+
+<a href="https://linkedin.com/in/your-profile" style="text-decoration:none; margin:5px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+</a>
+<a href="https://your-portfolio-link.com" style="text-decoration:none; margin:5px;">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?logo=Google%20Chrome&logoColor=white&style=for-the-badge" alt="Portfolio"/>
+</a>
+<a href="mailto:your-email@example.com" style="text-decoration:none; margin:5px;">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center" style="background: linear-gradient(135deg, #7f00ff, #e100ff); padding:20px; border-radius:15px; color:white;">
+
+## 🎨 **Fun Section**  
+
+### 🌈 **Random Dev Quote**  
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
+
+### 🎉 **Random Meme**  
+<img src="https://random-memer.herokuapp.com/" alt="Meme" width="400px" style="border-radius:10px; margin-top:10px;"/>  
+
+---
+
+**⭐ Don't forget to star the repositories you find interesting! ⭐**  
+**Thank you for visiting my profile! 😊**
+
+</div>
