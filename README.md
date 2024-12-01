@@ -1,10 +1,10 @@
 <div align="center" style="background: linear-gradient(135deg, #ff6f61, #6b5b95); padding: 30px; border-radius: 15px; color: #fff;">
 
-<img src="https://i.imgur.com/8eYnOOS.png" alt="Profile Logo" width="150" style="border-radius:50%; border: 3px solid #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"/>  
+<img src="https://i.imgur.com/9mwXvZo.jpg" alt="Profile Logo" width="100%" style="border-radius:50%; border: 3px solid #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"/>  
 
 # 🌟 **Welcome to My GitHub Profile!**  
 ### 👋 Hi, I'm **Limon sheikh**  
-**🚀 Full-Stack Developer | 🎨 UI/UX Designer | 🌐 Open Source Enthusiast**  
+**🚀 MERN-Stack Developer | 🎨 UI/UX Designer | 🌐 Open Source Enthusiast**  
 
 </div>
 
@@ -85,15 +85,15 @@
 ## 📈 **GitHub Stats**  
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap:20px;">
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Limon-sheikh&show_icons=true&theme=dark" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Limon&theme=dark" alt="GitHub Streak" width="48%"/>
 </div>
 
 </div>
 
 ---
 
-<div align="center" style="background: linear-gradient(135deg, #d4fc79, #96e6a1); padding:20px; border-radius:15px;">
+<div align="center"  padding:20px; border-radius:15px;">
 
 ## 🎉 **Let's Connect!**  
 
