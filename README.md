@@ -91,8 +91,8 @@
 ## 📈 **GitHub Stats**  
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap:20px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limon-sheikh&show_icons=true&locale=en&layout=compact&theme=dark" alt="limon-sheikh" width="45%" />&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=limon-sheikh&show_icons=true&locale=en&theme=dark" alt="limon-sheikh"  width="48%" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limon-sheikh&show_icons=true&locale=en&layout=compact" alt="limon-sheikh" width="45%" />&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=limon-sheikh&show_icons=true&locale=en" alt="limon-sheikh"  width="48%" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=limon-sheikh&" alt="limon-sheikh"  width="48%"/>
 </div>
 
