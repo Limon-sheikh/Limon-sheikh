@@ -1,5 +1,6 @@
 
 
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Limon+sheikh!;" />
 </h1>
@@ -90,8 +91,9 @@
 ## 📈 **GitHub Stats**  
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap:20px;">
-<img src="https://github-readme-stats.vercel.app/api?username=Limon-sheikh&show_icons=true&theme=dark" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Limon&theme=dark" alt="GitHub Streak" width="48%"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limon-sheikh&show_icons=true&locale=en&layout=compact&theme=dark" alt="limon-sheikh" width="45%" />&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=limon-sheikh&show_icons=true&locale=en&theme=dark" alt="limon-sheikh"  width="48%" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=limon-sheikh&" alt="limon-sheikh"  width="48%"/>
 </div>
 
 </div>
@@ -132,13 +134,41 @@
 **Thank you for visiting my profile! 😊**
 
 </div>
-
-
 <br/><br/>
-
 <hr/>
-
+<br/>
 <br/>
 
 
-<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1 align="center">Hi 👋, I'm Limon-sheikh</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=limon-sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="limon-sheikh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=limon-sheikh" alt="limon-sheikh" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
+
+
