@@ -1,6 +1,6 @@
 <div align="center" style="background: linear-gradient(135deg, #ff6f61, #6b5b95); padding: 30px; border-radius: 15px; color: #fff;">
 
-<img src="https://i.imgur.com/9mwXvZo.jpg" alt="Profile Logo" width="100%" style="border-radius:50%; border: 3px solid #fff; box-shadow: 0 4px 10px rgba(0,0,0,0.3);"/>  
+  
 
 # 🌟 **Welcome to My GitHub Profile!**  
 ### 👋 Hi, I'm **Limon sheikh**  
