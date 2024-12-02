@@ -1,129 +1,73 @@
-<div align="center" style="background: linear-gradient(135deg, #ff6f61, #6b5b95); padding: 30px; border-radius: 15px; color: #fff;">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Limon+sheikh!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-
-# 🌟 **Welcome to My GitHub Profile!**  
-### 👋 Hi, I'm **Limon sheikh**  
-**🚀 MERN-Stack Developer | 🎨 UI/UX Designer | 🌐 Open Source Enthusiast**  
-
+  <br/><br/><br/>
 </div>
 
----
+<hr/>
 
-<div align="center" style="background-color:#162447; padding:20px; border-radius:15px; color:white;">
-
-## 🚀 **About Me**  
-
-🌟 I love crafting visually stunning, user-friendly websites and applications.  
-🎨 Passionate about **web design**, **frontend development**, and **performance optimization**.  
-🔥 Constantly learning and growing with new technologies like **TypeScript**, **Next.js**, and **GraphQL**.  
-
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
----
+<br/><br/>
 
-<div align="center" style="background: linear-gradient(135deg, #6a11cb, #2575fc); padding:20px; border-radius:15px; color:white;">
+<hr/>
 
-## 💻 **Tech Stack**  
+<br/>
 
-<table style="border-collapse: collapse;">
-    <tr>
-        <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="JavaScript"/><br/>
-            <b>HTML5</b>
-        </td>
-        <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="MySQL"/><br/>
-            <b>CSS3</b>
-        </td>
-        <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="bootstrap"/>
-            <b>Bootstrap</b>
-        </td>
-        <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/><br/>
-            <b>JavaScript</b>
-        </td>
-        <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/><br/>
-            <b>React js</b>
-        </td>
-        <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js"/><br/>
-            <b>Node.js</b>
-        </td>
-        <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/><br/>
-            <b>Tailwind CSS</b>
-        </td>
-        <td align="center" width="100px" style="padding:10px; transition: transform 0.3s;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br/>
-            <b>Git</b>
-        </td>
-    </tr>
-</table>  
-</div>
 
----
-
-<div align="center" style="background: linear-gradient(135deg, #ff512f, #f09819); padding:20px; border-radius:15px; color:white;">
-
-## 🌟 **Featured Projects**  
-
-| Project Name  | Description  | Tech Stack  | Demo  |
-|---|---|---|---|
-| [**Student Management System**](https://github.com/username/student-management) | A web app for managing students, attendance, and grades. | React.js, Node.js, MongoDB | [View Demo](https://github.com/username/student-management) |
-| [**E-commerce Platform**](https://github.com/username/ecommerce-platform) | A scalable platform with a payment gateway. | React.js, Express.js, MySQL | [View Demo](https://github.com/username/ecommerce-platform) |
-| [**Portfolio Website**](https://github.com/username/portfolio-website) | A personal portfolio showcasing my skills. | HTML, CSS, JavaScript | [View Demo](https://github.com/username/portfolio-website) |
-
-</div>
-
----
-
-<div align="center" style="background: linear-gradient(135deg, #56ab2f, #a8e063); padding:20px; border-radius:15px; color:white;">
-
-## 📈 **GitHub Stats**  
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap:20px;">
-<img src="https://github-readme-stats.vercel.app/api?username=Limon-sheikh&show_icons=true&theme=dark" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Limon&theme=dark" alt="GitHub Streak" width="48%"/>
-</div>
-
-</div>
-
----
-
-<div align="center"  padding:20px; border-radius:15px;">
-
-## 🎉 **Let's Connect!**  
-
-<a href="https://linkedin.com/in/your-profile" style="text-decoration:none; margin:5px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-</a>
-<a href="https://your-portfolio-link.com" style="text-decoration:none; margin:5px;">
-    <img src="https://img.shields.io/badge/-Portfolio-FF5722?logo=Google%20Chrome&logoColor=white&style=for-the-badge" alt="Portfolio"/>
-</a>
-<a href="mailto:your-email@example.com" style="text-decoration:none; margin:5px;">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
-</a>
-
-</div>
-
----
-
-<div align="center" style="background: linear-gradient(135deg, #7f00ff, #e100ff); padding:20px; border-radius:15px; color:white;">
-
-## 🎨 **Fun Section**  
-
-### 🌈 **Random Dev Quote**  
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
-
-### 🎉 **Random Meme**  
-<img src="https://random-memer.herokuapp.com/" alt="Meme" width="400px" style="border-radius:10px; margin-top:10px;"/>  
-
----
-
-**⭐ Don't forget to star the repositories you find interesting! ⭐**  
-**Thank you for visiting my profile! 😊**
-
-</div>
+<br/>
