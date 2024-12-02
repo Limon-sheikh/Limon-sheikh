@@ -9,7 +9,6 @@
   
 
 # 🌟 **Welcome to My GitHub Profile!**  
-### 👋 Hi, I'm **Limon sheikh**  
 **🚀 MERN-Stack Developer | 🎨 UI/UX Designer | 🌐 Open Source Enthusiast**  
 
 </div>
