@@ -116,17 +116,11 @@
 
 </div>
 
----
+
 
 <div align="center" style="background: linear-gradient(135deg, #7f00ff, #e100ff); padding:20px; border-radius:15px; color:white;">
 
-## 🎨 **Fun Section**  
 
-### 🌈 **Random Dev Quote**  
-> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
-
-### 🎉 **Random Meme**  
-<img src="https://random-memer.herokuapp.com/" alt="Meme" width="400px" style="border-radius:10px; margin-top:10px;"/>  
 
 ---
 
