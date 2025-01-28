@@ -107,7 +107,7 @@
 <a href="https://www.linkedin.com/in/limonofficial/" style="text-decoration:none; margin:5px;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
 </a>
-<a href="https://your-portfolio-link.com" style="text-decoration:none; margin:5px;">
+<a href="#" style="text-decoration:none; margin:5px;">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?logo=Google%20Chrome&logoColor=white&style=for-the-badge" alt="Portfolio"/>
 </a>
 <a href="mailto:limonsheikh1623@gmail.com" style="text-decoration:none; margin:5px;">
